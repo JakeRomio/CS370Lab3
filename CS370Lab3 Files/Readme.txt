@@ -1,4 +1,4 @@
-Lab3 - README.txt
+Lab3 - Readme.txt
 
 Jacob Romio - 822843795
 	Part 1:
